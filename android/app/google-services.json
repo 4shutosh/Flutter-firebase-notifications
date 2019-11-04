@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530929046515",
+    "firebase_url": "https://ashutoshsingh.firebaseio.com",
+    "project_id": "ashutoshsingh",
+    "storage_bucket": "ashutoshsingh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530929046515:android:2c5fc048ee05d844d5b886",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530929046515-o8k52t7nqqtclrlgl288hk6onvesil9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMUJwpV4jAAYBuC-NzeQgSF9-r0FUweo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530929046515-o8k52t7nqqtclrlgl288hk6onvesil9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
